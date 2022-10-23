@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Search_item2</string>
+    <string name="title_activity_play1">PlayActivity1</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="level1">Символ_Огня Горлянка Повязка Кастет Кунай Акацуки Метка Гунбай Кольцо Маска Ворон Печать Риннеган Учиха Свиток</string>
+    <string name="level2">Фума_сюрикен Меч_забудзы Акацуки Учиха Самихада Шляпа Сюрикен Шаринган Кольцо Кунай Маска Свиток Символ_огня Кастет Веер</string>
+    <string name="level3">Кольцо Акамару Рамен Йена Повязка Кунай Веер Семь Коса Лягушка Горлянка Риннеган Фума сюрикен Учиха Ворон</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_mini_map">MiniMapActivity</string>
+    <string name="title_activity_play2">PlayActivity2</string>
+    <string name="title_activity_play3">PlayActivity3</string>
+    <string name="title_activity_achievements">AchievementsActivity</string>
+</resources>
